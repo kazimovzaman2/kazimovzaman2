@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Zaman Kazimov
-![](https://img.shields.io/badge/Cyber%20Security%20%2F%%2F%20Engineer%20%2F)
+ ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
 
 <!--
 **kazimovzaman2/kazimovzaman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
