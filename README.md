@@ -4,10 +4,11 @@
 I am Zaman Kazimov from Azerbaijan, I'm student at Azerbaijan State Oil and Industry University. I really enjoy learning languages and frameworks like Flask and Django. I aslo enjoy cybersecurity, infrastructure of network.
 
 ## Skills
-* ![PythonPoweredGIF (2)](https://user-images.githubusercontent.com/92586852/202913234-269db6c3-ccba-437b-abc6-7398dd07cd08.gif) Python
+* 🧑‍💻 Python, C, C++, SQL
+* 🪟 Flask, Django
+* 💻 HTML, CSS, JS
 
 
-Python / C / C++ / Flask / Django / JS / HTML / CSS
 
 - 🔭 I’m currently working on Sabah.Academy 
 - 🌱 I’m currently learning Flask 
