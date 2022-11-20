@@ -1,11 +1,5 @@
-### Hi there 👋 I am Zaman Kazimov
- ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
+### Hi there 👋 
 
-<!--
-**kazimovzaman2/kazimovzaman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zaman Kazimov from Azerbaijan, I'm student at Azerbaijan State Oil and Industry University. I really enjoy learning languages and frameworks like Flask and Django. I aslo enjoy cybersecurity, infrastructure of network. You can check out my linkedin at https://www.linkedin.com/in/zaman-kazimov-b4a627238/.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently don't work
-- 🌱 I’m currently learning web programing useing python
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=kazimovzaman2)](https://github.com/anuraghazra/github-readme-stats)
