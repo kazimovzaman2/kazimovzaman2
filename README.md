@@ -18,7 +18,7 @@ I am Zaman Kazimov from Azerbaijan, I'm student at Azerbaijan State Oil and Indu
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
+![](https://komarev.com/ghpvc/?username=kazimovzaman2)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimovzaman2&theme=chartreuse-dark&show_icons=true)
