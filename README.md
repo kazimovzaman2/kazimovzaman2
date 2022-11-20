@@ -18,3 +18,6 @@ I am Zaman Kazimov from Azerbaijan, I'm student at Azerbaijan State Oil and Indu
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazimovzaman2&theme=chartreuse-dark&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimovzaman2)](https://github.com/anuraghazra/github-readme-stats)
